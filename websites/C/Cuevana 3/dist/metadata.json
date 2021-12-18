@@ -4,7 +4,10 @@
     "name": "Rare Akuma ☆",
     "id": "250044591686811669"
   },
-  "url": "cuevana3.io",
+  "url": [
+      "cuevana3.io",
+      "www1.cuevana3.so"
+  ],
   "service": "Cuevana 3",
   "description": {
     "en": "Cuevana 3 is a streaming website where you can watch and download movies and series in spanish, english and subtitled.",
